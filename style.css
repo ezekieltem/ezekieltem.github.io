@@ -5,3 +5,8 @@ body {
     font-weight: 400;
     font-style: normal;
 }
+
+body.TopBar {
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+}
