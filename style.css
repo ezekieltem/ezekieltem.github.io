@@ -17,5 +17,6 @@ body.TopBar {
 
     /* POSITION */
     top: 0px;
+    margin: 0px;
     left: 0px;
 }
