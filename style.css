@@ -6,7 +6,7 @@ body {
     font-style: normal;
 }
 
-body.TopBar {
+.TopBar {
     /* BORDER */
     border-bottom-width: 10px;
     border-bottom-style: solid;
@@ -19,4 +19,6 @@ body.TopBar {
     top: 0px;
     margin: 0px;
     left: 0px;
+
+    /* OTHER */
 }
