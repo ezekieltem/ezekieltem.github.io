@@ -4,7 +4,7 @@ body {
     color: white;
 }
 
-body.TopBar {
+.TopBar {
     background-color: black;
     border-bottom-color: red;
 }
