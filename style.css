@@ -4,6 +4,10 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-weight: 400;
     font-style: normal;
+
+    /* SIZE */
+    width: 100%;
+    size: 100%;
 }
 
 /* TOP BAR CLASSES */
