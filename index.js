@@ -1,1 +1,0 @@
-console.log("Please becareful running anything within dev-console!")
